@@ -1,4 +1,9 @@
 # CodingExercisesDay076
-# Triangle 
-- Basic properties of triangles
-The sum of the lengths of any two sides of a triangle is greater than the length of the third side. Similarly, the difference between the lengths of any two sides of a triangle is less than the length of the third side.
+# Disarium 
+- Definition
+Disarium number is the number that The sum of its digits powered with their respective positions is equal to the number itself.
+- Explanation:
+8(1) + 9(2) = 89 , > "Disarium !!"
+
+- Methods to check if number is disarium
+- Methods to search through an array of numbers the "disarium" numbers. 
